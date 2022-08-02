@@ -3,10 +3,15 @@ import "./styles/tailwind.css";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 import React from 'react';
+import { Provider } from 'react-redux';
+import { store } from './redux/store';
+
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
-    <App />
+    <Provider store={store}>
+      <App />
+    </Provider>
   </React.StrictMode>
 )
 
