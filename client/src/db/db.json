@@ -1,0 +1,112 @@
+[
+    {
+        "id": "1-nilson-guitar",
+        "nombre": "Les Paul Custom AW",
+        "marca": "Gibson",
+        "precio": 4280,
+        "categoria": "electric-guitar",
+        "img": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/177619.jpg",
+        "descripcion": "Les Paul Custom Cuerpo de caoba (Swietenia Macrophylla) Tapa de arce",
+        "cantidad": 10,
+        "estado": "Nuevo"
+    },
+    {
+        "id": "2-nilson-guitar",
+        "nombre": "Clapton Custom Shop BLK",
+        "marca": "Fender",
+        "precio": 3759,
+        "categoria": "electric-guitar",
+        "img": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/167025.jpg",
+        "descripcion": "Eric Clapton Signature Cuerpo de aliso Mástil de arce",
+        "cantidad": 10,
+        "estado": "Nuevo"
+    },
+    {
+        "id": "3-nilson-guitar",
+        "nombre": "G6136T-59VS White Falcon",
+        "marca": "Gretsch",
+        "precio": 3769,
+        "categoria": "electric-guitar",
+        "img": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/378249.jpg",
+        "descripcion": "'Vintage Select' Con un cutaway Cuerpo hueco de 3 capas de arce laminado",
+        "cantidad": 10,
+        "estado": "Nuevo"
+    },
+    {
+        "id": "4-nilson-guitar",
+        "nombre": "John Mayer Silver Sky Frost",
+        "marca": "PRS",
+        "precio": 2222,
+        "categoria": "electric-guitar",
+        "img": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/434265.jpg",
+        "descripcion": "John Mayer Signature Cuerpo de aliso Mástil de arce",
+        "cantidad": 10,
+        "estado": "Nuevo"
+    },
+    {
+        "id": "5-nilson-guitar",
+        "nombre": "G6122T-62VS Chet AtkinsCGWS",
+        "marca": "Gretsch",
+        "precio": 3111,
+        "categoria": "electric-guitar",
+        "img": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/378005.jpg",
+        "descripcion": "Con doble cutaway Cuerpo hueco de 3 capas de arce laminado Curva inferior del cuerpo: 43,20cm (17\")",
+        "cantidad": 10,
+        "estado": "Nuevo"
+    },
+    {
+        "id": "6-nilson-guitar",
+        "nombre": "G6196T-59VS Country Club",
+        "marca": "Gretsch",
+        "precio": 2999,
+        "categoria": "electric-guitar",
+        "img": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/378252.jpg",
+        "descripcion": "'Vintage Select Edition' Con un cutaway Cuerpo hueco de 3 capas de arce laminado",
+        "cantidad": 10,
+        "estado": "Nuevo"
+    },
+    {
+        "id": "7-nilson-guitar",
+        "nombre": "Iron Cross SW",
+        "marca": "ESP",
+        "precio": 5222,
+        "categoria": "electric-guitar",
+        "img": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/332919.jpg",
+        "descripcion": "Modelo James Hetfield (Metallica) Signature Construcción Set Neck Cuerpo de caoba (Khaya Ivorensis)",
+        "cantidad": 10,
+        "estado": "Nuevo"
+    },
+    {
+        "id": "8-nilson-guitar",
+        "nombre": "G7593T Billy Duffy Falcon",
+        "marca": "Gretsch",
+        "precio": 3699,
+        "categoria": "electric-guitar",
+        "img": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/304243.jpg",
+        "descripcion": "Professional Collection Falcon Body Shape Cuerpo de arce",
+        "cantidad": 10,
+        "estado": "Nuevo"
+    },
+    {
+        "id": "9-nilson-guitar",
+        "nombre": "Michael Landau 68 RelicStratBK",
+        "marca": "Fender",
+        "precio": 3399,
+        "categoria": "electric-guitar",
+        "img": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/318694.jpg",
+        "descripcion": "Artist Serie Cuerpo de aliso ligero selecto Mástil de arce",
+        "cantidad": 10,
+        "estado": "Nuevo"
+    },
+    {
+        "id": "10-nilson-guitar",
+        "nombre": "Clapton Custom Shop MDB",
+        "marca": "Fender",
+        "precio": 3955,
+        "categoria": "electric-guitar",
+        "img": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/179409.jpg",
+        "descripcion": "Eric Clapton Signature Cuerpo de aliso Mástil de arce",
+        "cantidad": 10,
+        "estado": "Nuevo"
+    }
+]
